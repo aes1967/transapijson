@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-plexus-354512",
+  "private_key_id": "b8f9acb812ce45c18123f0e656ac732ce4fd44d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTsHQb0+R5sIGF\nw0QhRv3sgAeMXG/nV2ysFpS8I+tAP23sx/RKSQ6x0hcgqi3tiV+E0TGwCmOJ3sf1\neSFg1bMkSx2sgNXj/mYVAqxddtezelGgUOIkJL2go6HfwKqGCz02XVaYTlkRxLwI\nUPlkVDIu6N2jtgPp3galKTsZsBj39qeL+XGjVxTnYRx3j9Hg2gkbV9WxVbtTHYu5\n63bLBPZmf3nB6COkOeB6jBOL3Oyu5ZLoQXPyL68LTK7MTTwZ1hikWvy98BvFAO81\nPJ+oR8uIKIHSzeZZ6Ka3XKIM0BOPQ7O/3vJ8a2KTcDqwczGooJf7gF/FyyY5tcKD\nizOmYCpvAgMBAAECggEAH6YXHd1L9eOX4cNECYOfIr+GIWE6kR2mz4MKwVF6HQoT\n/wgVXmaAzhYebhGeDzrwGcqFlrpe5QshMx06inXjXsQ6OgMDDMoJQg/lwY2Aie1P\njIaQi3MmGgEM37KNlr/RwDHWk1Z3W5WMao6MqAgsfotDLnQ1LpRgGEugnI0RlpS3\nUmXFDQGL+TeI9WDXkRfuKUhT8laYRa/KhhlMweV6ME3Mc9ymaAY2mdpHJMI90HDu\nS4O2xWpKepNCQNsk+oHNpiLp1q8PT1I08XfZVun7QjMjOmeR4gYDRM5FjQ27bzl6\n5SdSuDdsAkZg5RFJptaCILIwUaZOhlBQogymUhRDsQKBgQD3fMaX0bUGXrYEv7h9\nN11vOspHUkhVydtbRkMv9TzwXgE8PFweyDZfz+oRMk4T0YN2soQNxzKz3CaZl/1L\nASaiJtavJO/OqD7SbV84Cg+rTuMQ8dlfPqrg4fsRccOB/l0Wpom67araaRwlgB9l\npf3W5X/fkQN84DJ//fZ7vlqhnwKBgQDa+HYLAms/Gzz0/QtqwANOle799yxeIWM+\nWZzsfGk34q/sZ7hMPTaEbnb6QPZM/vsfhVPsnaaYCwsUkecvJ1KJcn+G3cIG4Xzq\nfV9fG1JU2SAYAoViHcqb4dIuiXMEwP2M40dG7H9j+4hxHoVpToBCIvdF6nvKuWQk\nwfHyzwzlMQKBgQCsr7reumwG2tVE8QXpEVW3xBzasTZZ7fSKdrdw4jy4N8/C2Rcq\nP2d5aVkY0LIcMAf8Lcno10Kwr3+bkqshx9bONC1+nlZaK5lSORDEyHhwfyX/b9HO\nHKsdKXGHlYrmzLbllCTscuPRbKBAJmtCARXi+dZFCCmX29RA7NMtOwCAXwKBgQC9\nx1mHcTFCIHlUW3vpqUE0ev4HXpI1gvpgr4ox7CHFLdMLMVmpuePmI1c6zdKqKNO9\nHfD+wiQA4pFX4pxbYdlHBtVALjJbhFKfaMmfxC43G3eVV5oCz48qSy2+56GoHRuj\nX9gGwDIolXhLkghOnJrMt0FYd0GTEdqZgP4RUyH6AQKBgDovdjSGOKkP6e9oYMIN\n6KP4wMPdPa/cJTvLV4Lqx2Ne70sRJqq0T1IQfJ8+HN2o5HNH5taWYZ58jWSJkoHz\n7gq6OAJzEl2oXSJNLg1yPTzFCvUj/SBwX1BmkFp37U/qAn3ZQDbGz8z67pveZ2N0\nGwkS+GQ0L+V4komzCquAx06F\n-----END PRIVATE KEY-----\n",
+  "client_email": "myservice@crypto-plexus-354512.iam.gserviceaccount.com",
+  "client_id": "110267849055427357632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myservice%40crypto-plexus-354512.iam.gserviceaccount.com"
+}
